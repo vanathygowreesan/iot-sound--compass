@@ -1,7 +1,7 @@
 
 > Open this page at [https://vanathygowreesan.github.io/iot-sound--compass/](https://vanathygowreesan.github.io/iot-sound--compass/)
 
-> Check out the full program here: [https://makecode.microbit.org/_2zwUPcAJoWV9](https://makecode.microbit.org/_2zwUPcAJoWV9)
+> Check out the full published Makecode program here: [https://makecode.microbit.org/_2zwUPcAJoWV9](https://makecode.microbit.org/_2zwUPcAJoWV9)
 
 ## Use as Extension
 
